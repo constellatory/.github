@@ -2,7 +2,7 @@
         path {
             fill: black;
         }
-        body.dark-theme path {
+        @media (prefers-color-scheme: dark) {
             fill: white;
         }
     </style>
