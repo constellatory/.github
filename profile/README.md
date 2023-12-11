@@ -1,3 +1,3 @@
-![stars](https://raw.githubusercontent.com/constellatory/.github/0a7fb82500c93e7cbfda15eb79dcbf4a450367b4/assets/stars.svg)
+<p align="center">   <img width="200px" src="https://itzzen.net/stars.svg" /> </p>
 <h1 align="center">Welcome to Constellatory Github</h1>
 <p align="center">Constellatory provides a collection of internet serivces configured to be reliable, secure, and fast.</p>
