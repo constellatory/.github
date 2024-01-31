@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 478.235 192.054">   <style>
         path {
-            fill: black;
+            fill: white;
         }
         @media (prefers-color-scheme: dark) {
-            fill: white;
+            fill: black;
         }
     </style>
   <circle cx="23.846" cy="90.879" r=".045" stroke="#000" stroke-width=".265"/>
